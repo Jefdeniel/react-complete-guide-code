@@ -1,0 +1,14 @@
+de App.js is eigenlijk ne routing systeem
+
+Je bouwt een component tree
+
+- <App />     (rendered into a single page)
+  - <Header />
+  - <Tasks />
+    - <Task />
+    - <Task />
+    - <Task />
+
+______________
+
+- een components in React is eigenlijk gewoon een JS functie 
